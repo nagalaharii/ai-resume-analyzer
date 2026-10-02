@@ -26,3 +26,5 @@ A simple web app that compares a resume with a job description using the Gemini 
 - PDF resume upload
 - Save analysis history
 - Generate an improved version of the resume
+Live demo: https://ai-resume-analyzer-d8w5vm5txqo6ag3xzukmnc.streamlit.app/
+     Live demo: https://your-app-link-here
